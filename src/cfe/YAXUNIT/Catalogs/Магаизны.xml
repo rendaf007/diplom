@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Catalog uuid="495559f6-5fa1-45e3-b90c-3e627ac68c59">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Магаизны" category="Object">
+				<xr:TypeId>dd5cf434-ffd6-4b3c-b55d-3268561e69bc</xr:TypeId>
+				<xr:ValueId>c868eb54-3183-4914-87fb-f97f6d4b3ef7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Магаизны" category="Ref">
+				<xr:TypeId>80a7613c-7388-4e5e-bee6-0de21e042294</xr:TypeId>
+				<xr:ValueId>f376023b-eebf-44d0-861b-7eca2c6a8ba9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Магаизны" category="Selection">
+				<xr:TypeId>20c8db5e-e0bf-494a-9301-c9b9446c3f69</xr:TypeId>
+				<xr:ValueId>82dba8bc-2577-4a39-b478-3b577b7c1ae2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Магаизны" category="List">
+				<xr:TypeId>4f95e57e-f6dd-4ad4-9270-1a5aa515d533</xr:TypeId>
+				<xr:ValueId>aa3b55e4-83d4-48a5-b596-c246457dbf86</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Магаизны" category="Manager">
+				<xr:TypeId>41b1b97a-8c72-45e5-962a-9d46d2345077</xr:TypeId>
+				<xr:ValueId>c66f6c7e-2be1-4d11-9625-2be5840c9b29</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Магаизны</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>c039abfc-c281-4262-a577-f23d6719f72f</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

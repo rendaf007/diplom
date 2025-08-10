@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<Document uuid="6e7b2fe7-825e-4e69-bf9b-39d82d31b4a8">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.СписаниеСертификатов" category="Object">
+				<xr:TypeId>7607a976-3845-42eb-828b-582465f595d1</xr:TypeId>
+				<xr:ValueId>7d3235cb-8f5e-42c3-aced-4e4b7ee67a56</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.СписаниеСертификатов" category="Ref">
+				<xr:TypeId>bdf74307-565f-4328-b677-ec31c0f44f7f</xr:TypeId>
+				<xr:ValueId>6204fee0-d79c-45b7-9551-a666f52730cd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.СписаниеСертификатов" category="Selection">
+				<xr:TypeId>856ed858-5449-45ce-9bb5-1a7425485d0b</xr:TypeId>
+				<xr:ValueId>061170a5-33be-4dac-9423-711a4bc486ca</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.СписаниеСертификатов" category="List">
+				<xr:TypeId>3c161a04-bc4a-40c7-af9d-6d7f99334d35</xr:TypeId>
+				<xr:ValueId>06e6e324-0d7b-44e8-b560-693882af0987</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.СписаниеСертификатов" category="Manager">
+				<xr:TypeId>fb5c0b8d-e3e0-4d59-81eb-ae9a66b82b74</xr:TypeId>
+				<xr:ValueId>e9670114-b978-41e6-aca8-6afcf6675bbb</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СписаниеСертификатов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>48dd5761-2b15-43a3-9ebb-230c98198d81</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>
